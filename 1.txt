@@ -1,2 +1,6 @@
 创建文件夹，文件
 test
+使用SSH方式实现Git远程连接GitHub
+三、输入：ssh-keygen -t rsa ，连续三次回车（即不做任何输入），结果如下：
+
+
